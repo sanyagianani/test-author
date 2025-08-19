@@ -1,0 +1,5 @@
+google-adk
+chromadb
+pypdf2
+python-dotenv
+sentence-transformers
